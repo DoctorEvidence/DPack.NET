@@ -1,0 +1,24 @@
+{
+  "name": "DPack.NET",
+  "version": "0.0.1",
+  "description": "Efficient, compact binary format for serializing data structures with extensible typing",
+  "license": "MIT",
+  "main": "node_modules/dpack/dist/index.js",
+  "typings": "node_modules/dpack/dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DoctorEvidence/dpack.NET.git"
+  },
+  "keywords": [],
+  "author": "Christopher Froehlich",
+  "bugs": {
+    "url": "https://github.com/DoctorEvidence/dpack.NET/issues"
+  },
+  "homepage": "https://github.com/DoctorEvidence/dpack.NET#readme",
+  "dependencies": {
+    "dpack": "^0.4.14"
+  }
+}
